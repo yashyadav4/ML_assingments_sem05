@@ -1,0 +1,53 @@
+File_Name,Column_Name,Data_Type,Sample_Value
+olist_customers_dataset.csv,customer_id,str,06b8999e2fba1a1fbc88172c00ba8bc7
+olist_customers_dataset.csv,customer_unique_id,str,861eff4711a542e4b93843c6dd7febb0
+olist_customers_dataset.csv,customer_zip_code_prefix,int64,14409
+olist_customers_dataset.csv,customer_city,str,franca
+olist_customers_dataset.csv,customer_state,str,SP
+olist_geolocation_dataset.csv,geolocation_zip_code_prefix,int64,1037
+olist_geolocation_dataset.csv,geolocation_lat,float64,-23.54562128115268
+olist_geolocation_dataset.csv,geolocation_lng,float64,-46.63929204800168
+olist_geolocation_dataset.csv,geolocation_city,str,sao paulo
+olist_geolocation_dataset.csv,geolocation_state,str,SP
+olist_orders_dataset.csv,order_id,str,e481f51cbdc54678b7cc49136f2d6af7
+olist_orders_dataset.csv,customer_id,str,9ef432eb6251297304e76186b10a928d
+olist_orders_dataset.csv,order_status,str,delivered
+olist_orders_dataset.csv,order_purchase_timestamp,str,2017-10-02 10:56:33
+olist_orders_dataset.csv,order_approved_at,str,2017-10-02 11:07:15
+olist_orders_dataset.csv,order_delivered_carrier_date,str,2017-10-04 19:55:00
+olist_orders_dataset.csv,order_delivered_customer_date,str,2017-10-10 21:25:13
+olist_orders_dataset.csv,order_estimated_delivery_date,str,2017-10-18 00:00:00
+olist_order_items_dataset.csv,order_id,str,00010242fe8c5a6d1ba2dd792cb16214
+olist_order_items_dataset.csv,order_item_id,int64,1
+olist_order_items_dataset.csv,product_id,str,4244733e06e7ecb4970a6e2683c13e61
+olist_order_items_dataset.csv,seller_id,str,48436dade18ac8b2bce089ec2a041202
+olist_order_items_dataset.csv,shipping_limit_date,str,2017-09-19 09:45:35
+olist_order_items_dataset.csv,price,float64,58.9
+olist_order_items_dataset.csv,freight_value,float64,13.29
+olist_order_payments_dataset.csv,order_id,str,b81ef226f3fe1789b1e8b2acac839d17
+olist_order_payments_dataset.csv,payment_sequential,int64,1
+olist_order_payments_dataset.csv,payment_type,str,credit_card
+olist_order_payments_dataset.csv,payment_installments,int64,8
+olist_order_payments_dataset.csv,payment_value,float64,99.33
+olist_order_reviews_dataset.csv,review_id,str,7bc2406110b926393aa56f80a40eba40
+olist_order_reviews_dataset.csv,order_id,str,73fc7af87114b39712e6da79b0a377eb
+olist_order_reviews_dataset.csv,review_score,int64,4
+olist_order_reviews_dataset.csv,review_comment_title,float64,
+olist_order_reviews_dataset.csv,review_comment_message,str,
+olist_order_reviews_dataset.csv,review_creation_date,str,2018-01-18 00:00:00
+olist_order_reviews_dataset.csv,review_answer_timestamp,str,2018-01-18 21:46:59
+olist_products_dataset.csv,product_id,str,1e9e8ef04dbcff4541ed26657ea517e5
+olist_products_dataset.csv,product_category_name,str,perfumaria
+olist_products_dataset.csv,product_name_lenght,int64,40
+olist_products_dataset.csv,product_description_lenght,int64,287
+olist_products_dataset.csv,product_photos_qty,int64,1
+olist_products_dataset.csv,product_weight_g,int64,225
+olist_products_dataset.csv,product_length_cm,int64,16
+olist_products_dataset.csv,product_height_cm,int64,10
+olist_products_dataset.csv,product_width_cm,int64,14
+olist_sellers_dataset.csv,seller_id,str,3442f8959a84dea7ee197c632cb2df15
+olist_sellers_dataset.csv,seller_zip_code_prefix,int64,13023
+olist_sellers_dataset.csv,seller_city,str,campinas
+olist_sellers_dataset.csv,seller_state,str,SP
+product_category_name_translation.csv,product_category_name,str,beleza_saude
+product_category_name_translation.csv,product_category_name_english,str,health_beauty
