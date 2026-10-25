@@ -1,0 +1,5 @@
+cluster,recency_days,frequency,monetary,average_order_value,average_freight,average_items_per_order,average_unique_products_per_order
+0,213.0,1.0,192.36,192.36,23.63,1.0,1.0
+1,224.0,1.0,66.67,66.67,15.1,1.0,1.0
+2,223.0,1.0,205.92,204.18,37.59,2.0,2.0
+3,200.0,2.0,223.67,108.42,17.8,1.0,1.0
